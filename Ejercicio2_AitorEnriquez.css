@@ -1,0 +1,40 @@
+
+body {
+    background-color: powderblue;
+}
+
+menu {
+   
+    background-color:rebeccapurple;
+}
+
+ul  {
+    margin-left: -2.5em;
+    list-style-type:none;
+    display:flex;
+    
+}
+
+li {
+    margin-left:-1.8em;
+    padding-top: 0.5em;
+    padding-bottom:0.5;
+    padding-left:1em;
+    padding-right:1em;
+    width: 100%;
+    color:white;
+    text-align: center;
+    
+    text-transform:uppercase;
+    font-size: 1.4em;
+}
+
+a {
+    text-decoration: none;
+    color:white;;
+}
+
+li:hover, a:hover {
+    background-color: yellow;
+    color: rgb(94, 30, 10)
+}

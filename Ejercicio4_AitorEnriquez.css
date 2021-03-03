@@ -1,0 +1,22 @@
+
+
+form {
+    /* display:flex;
+    flex-direction:column; */
+    width:60%;
+    border: 0.1em solid grey;
+    box-shadow: 1em 1em grey;
+}
+
+label {
+    font-weight:bold ;
+}
+[type=submit] {
+    margin-top: 1em;
+    margin-bottom:1em;
+    border: 0.2em solid darkgreen;
+    width:9em;
+    height: 2em;
+    background-color:green;
+    color:white;
+}
